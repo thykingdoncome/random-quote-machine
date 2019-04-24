@@ -77,17 +77,3 @@ h2 {
 #author {
     color: rgb(87, 4, 4);
 }
-
-footer {
-    position: absolute;
-    bottom: 0px;
-    background-color: rgb(0, 0, 0);
-    width: 100%;
-    text-align: center;
-    color: white;
-}
-
-#copy {
-    color: white;
-    text-shadow: 2px 2px 3px whitesmoke;
-}
