@@ -23,7 +23,7 @@ body {
     width: 100%;
     text-align: center;
     padding: 7px 0;
-    font-size: 2em;
+    font-size: 2rem;
 }
 
 i {
@@ -32,7 +32,7 @@ i {
 }
 
 #container {
-    padding: 1rem 2rem;
+    padding: .5rem 2rem;
     border-radius: 6px;
     background: rgb(230, 224, 224, 0.6);
     flex: 0 0 80%;
@@ -41,7 +41,7 @@ i {
 
 button {
     font-size: 1.1rem;
-    border-radius: 10px;
+    border-radius: 6px;
     padding: .6em;
     box-shadow: 2px 2px 3px black;
     cursor: pointer;
@@ -62,7 +62,7 @@ button:hover {
 blockquote {
     background: rgb(105, 236, 236, 0.6);
     margin: 1.4rem;
-    padding: 0.5rem;
+    padding: 0.2rem 0.5rem;
     visibility: hidden;
     border-radius: 5px;
     box-shadow: 2px 2px 3px black;
@@ -72,6 +72,7 @@ blockquote {
 
 h2 {
     font-size: 1.5rem;
+    margin: 0;
 }
 
 #author {
